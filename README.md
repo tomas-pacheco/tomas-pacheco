@@ -5,7 +5,7 @@ My name is Tomás Pacheco! I'm currently a Master in Economics' student at Unive
 #### Coding examples
 * [R](https://github.com/tomas-pacheco/ComoSeSienteElPresidente)
 * [Python](https://github.com/tomas-pacheco/BirthdayProblemMonteCarlo)
-* [Stata]()
+* [Stata](https://github.com/tomas-pacheco/AppliedEconPS6)
 
 
 <!--
