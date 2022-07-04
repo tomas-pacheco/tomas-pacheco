@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Tomás Pacheco! I'm currently a Master in Economics' student at Universidad de San Andrés. You can reach me at [tpacheco[at]udesa.edu.ar](mailto:tpacheco@udesa.edu.ar)
+My name is Tomás Pacheco! I'm currently a Master in Economics' student at Universidad de San Andrés. You can reach me at [tpacheco[at]udesa.edu.ar](mailto:tpacheco@udesa.edu.ar). Here you can find some of my work.
+
+## CODING
+
+
 <!--
 **tomas-pacheco/tomas-pacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
