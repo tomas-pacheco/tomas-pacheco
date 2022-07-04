@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Estoy probando
+My name is Tomás Pacheco and I am from Argentina. I'm currently a Masters in Economics student at Universidad de San Andrés. 
+
 
 <!--
 **tomas-pacheco/tomas-pacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
