@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tomás Pacheco! I'm currently a Master in Economics' student at Universidad de San Andrés. You can reach me at [tpacheco[at]udesa.edu.ar](mailto:tpacheco@udesa.edu.ar). Here you can find some of my work.
+My name is Tomás Pacheco! I'm currently an Economics PhD Student at the University of Illinois at Urbana-Champaign. You can reach me at [tomas3[at]illinois.edu](mailto:tomas3@illinois.edu). Here you can find some of my work.
 
 #### Coding examples
 * [Stata](https://github.com/tomas-pacheco/AppliedEconPS6)
